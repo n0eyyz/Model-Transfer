@@ -1,0 +1,12 @@
+*.jpg
+clipvision_tf/
+yolov5/
+*.jpeg
+*.bin
+*.onnx
+models/
+*.zip
+*.tflite
+*.h5
+*.db
+__pycache__/
