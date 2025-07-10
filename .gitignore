@@ -2,6 +2,7 @@
 clipvision_tf/
 yolov5/
 *.jpeg
+*.png
 *.bin
 *.onnx
 models/
