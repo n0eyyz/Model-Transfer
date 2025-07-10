@@ -11,3 +11,4 @@ models/
 *.h5
 *.db
 __pycache__/
+*.json
